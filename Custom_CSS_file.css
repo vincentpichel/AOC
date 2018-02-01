@@ -1,0 +1,47 @@
+/*https://code.sololearn.com/W0nD3C39js5j/#css*/
+
+table {
+	border: 1px solid #410078;
+	padding: 15px;
+	background-color: #FBF8F8;
+	width: 850px;
+	text-align: left;
+}
+
+td.style{
+	text-align: left;
+	font-family: Arial;
+	font-size: 18px;
+	line-height: 2.0;
+	padding: 10px 20px 0px 20px;
+}
+/*Set Company color here for email header*/
+
+p.title {
+	color: #f15e1c;
+	font-size: 24px;
+	padding: 10px 20px 0px 20px;
+}
+
+p.style{
+	line-height: 1.0;
+	padding: 10px 20px 0px 20px;
+}
+
+p.foot{
+	text-align: justify;
+	font-size: 12px;
+	line-height: 2.0;
+	padding: 10px 20px 0px 40px;
+	font-style: italic;
+	color: #000000	
+}
+
+/*Set Company Logo Height & Width below:*/
+
+img {
+    float: right;
+    height: 267px;
+    width: 251px;
+
+}
